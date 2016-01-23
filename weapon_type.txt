@@ -1,0 +1,3 @@
+knife,dagger
+sword,broadsword,longsword
+bow,longbow

@@ -1,0 +1,27 @@
+head
+	neck
+	ear
+	nose
+
+chest
+	waist
+	torso
+	back
+
+left arm, right arm
+	elbow
+	shoulder
+	wrist
+
+left hand, right hand
+	thumb
+	index
+	middle
+	ring	
+	pinkie
+
+left leg, right leg
+	knee
+	
+	
+foot

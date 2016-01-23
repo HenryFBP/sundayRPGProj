@@ -1,0 +1,12 @@
+broken,cracked
+rusty
+dull
+
+decent,sure,meh
+alright,ok
+cool
+
+sharp,sharpened
+brilliant
+sparkling
+
