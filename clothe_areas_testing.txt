@@ -1,0 +1,15 @@
+head
+	face
+		eyes
+			left eye
+			right eye
+		ears
+			left ear
+			right ear
+		nose
+		lips
+			upper lip
+			bottom lip
+	neck
+	ear
+torso

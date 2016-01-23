@@ -17,6 +17,32 @@ def readFileToList(filePath, commentMark='#'):
             
     return data;
 
+
+def createTreeForBody(test):
+    
+    return test
+
+
+
+testBody = [
+            "head",
+            "head:face"
+            "head:face:eyes"
+            "head:face:eyes:left eye"
+            "head:face:eyes:right eye"
+            "head:face:ears"
+            "head:face:ears:left ear"
+            "head:face:ears:right ear"
+            "head:face:nose"
+            "torso",
+            "torso:chest",
+            "torso:waist",
+            "torso:back",
+           ]
+
+print(testBody)
+
+
 #testBleh = [
 #            ['A1', 'A2', 'A3'],
 #            ['B1','B2','B3'],
@@ -39,7 +65,7 @@ global_modifiers = readFileToList("global_modifiers.txt",'*')
 clothe_types = readFileToList("clothe_types.txt")
 clothe_areas = readFileToList("clothe_areas.txt")
 
-print(global_modifiers[0])
+#print(global_modifiers[0])
 
 
 # ayy lmao im a comment
